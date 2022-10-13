@@ -1,0 +1,18 @@
+body{
+    background: linear-gradient(-45deg, #d9631b, #c53813, #d7601a);
+    display: flex;
+    flex-direction: column;
+   
+}
+h1{
+    
+    color: aliceblue;
+}
+h1, h3{
+    text-align: center;
+}
+ul{
+    margin-left: 35%;
+}
+
+
